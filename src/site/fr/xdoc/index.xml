@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+    <properties>
+        <title>Librairie jade</title>
+    </properties>
+    <body>
+        <section name="Library Jade">   
+            <p><a href="http://jade-lang.com/"><img style="width: 20em;" src="images/jade-logo-header.svg" /></a></p>
+
+            <subsection name="Introduction">
+            	<p>Cette librairie fournit une interface pour mettre en œuvre des gabarits jade.
+            	Elle fournit également une directive freemarker permettant d'embarquer un gabarit jade
+            	dans un gabarit freemarker.</p>
+            </subsection>
+        </section>
+    </body>
+</document>
